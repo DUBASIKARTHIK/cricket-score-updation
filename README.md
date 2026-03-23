@@ -110,5 +110,7 @@ ProjectName/
 ## 👨‍💻 Author
 
 Name: D.Mani Deeepika,D.karthik,V.Sai prajay,S.Sivani
+
 Role: Full Stack Developer
+
 LinkedIn URL: https://linkedin.com/in/your-profile
