@@ -75,5 +75,12 @@ README.md
 
 ## 👨‍💻 Author
 
-Name: Your Name
+Names:
+## 👨‍👩‍👦 Team Members
+
+1. Name1 – Frontend Developer (User UI & Dashboard)
+2. Name2 – Backend Developer (Flask Routing & Integration)
+3. Name3 – Database & Realtime Developer (Supabase Integration)
+4. Name4 – Support Developer (Testing & UI Improvements)
+
 Role: Frontend Developer
